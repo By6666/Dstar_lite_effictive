@@ -1,0 +1,11 @@
+9
+10
+g _ _ _ _ _ _ _ _ _
+x x x x x x x x x _
+_ _ _ _ _ _ _ _ _ _
+_ x x x x x x x x x
+_ _ _ _ _ _ _ _ _ _
+x x x x x x x x x _
+_ _ _ _ _ _ _ _ _ _
+_ x x x x x x x x x
+_ _ _ _ _ _ _ _ _ s
